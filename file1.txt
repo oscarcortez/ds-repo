@@ -1,5 +1,3 @@
 This is my first file
 this is the second line
 this comes from local pc
-
-this is another commit from local pc
